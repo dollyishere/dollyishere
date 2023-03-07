@@ -11,3 +11,5 @@
  
 
 <div align='center'><span style='background-color:#ffdce0';><b>NEVERMORENEVERMORENEVERMORENEVERMORE</b></span></div>
+
+<div align='center'>파이썬 재활중</div>
