@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome&fontSize=72)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=240&section=header&text=Welcome&fontSize=72)
 # 💪 My Skills :art:
 ### :sparkles: Languages & Platform :sparkles:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
