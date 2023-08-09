@@ -2,7 +2,9 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=240&section=header&text=if%20you%20NOT%20in%20happy%20:&fontSize=64&desc=dollyishere)
 
-# 💪 My Skills :art:
+![img](https://media2.giphy.com/media/KiZ6kV683kPaU/giphy.gif?cid=ecf05e47062c0utnn8adkgaasz0rb42u2ybn2zugpsnh8hyw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ### :sparkles: Languages & Platform :sparkles:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
