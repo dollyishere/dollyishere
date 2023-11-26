@@ -4,7 +4,7 @@
 
 ![img](https://media0.giphy.com/media/11TyfGbDbBv4be/giphy.gif?cid=ecf05e47062c0utnn8adkgaasz0rb42u2ybn2zugpsnh8hyw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-<center>노는 게 제일 좋아~</center><br><center>하지만 무언가를 만들어 내는 것을 더 좋아하는 개발자</center>
+<center>노는 게 제일 좋아~</center><br/><center>하지만 무언가를 만들어 내는 것을 더 좋아하는 개발자</center>
 
 ### :sparkles: Languages & Platform :sparkles:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
