@@ -37,9 +37,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rundollyrun8@gmail.com)](mailto:rundollyrun8@gmail.com)
 
 
-![dollyishere's github stats](https://github-readme-stats.vercel.app/api?username=dollyishere&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rundollyrun)](https://solved.ac/rundollyrun/)  
-</div>
-
-
 
