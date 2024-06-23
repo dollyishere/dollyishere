@@ -8,4 +8,5 @@
 
 ### 😼 Portfolio	👾
 
-https://www.notion.so/polyesterda/FullStack-ec73cec9c9e5470db113150b10355a22?pvs=4
+[Click here!](https://www.notion.so/polyesterda/FullStack-ec73cec9c9e5470db113150b10355a22?pvs=4)
+
