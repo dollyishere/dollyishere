@@ -6,5 +6,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rundollyrun8@gmail.com)](mailto:rundollyrun8@gmail.com)
 
+### 😼 Portfolio	👾
 
-
+https://www.notion.so/polyesterda/FullStack-ec73cec9c9e5470db113150b10355a22?pvs=4
