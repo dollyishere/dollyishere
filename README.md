@@ -2,7 +2,7 @@
  
 ![img](https://media0.giphy.com/media/11TyfGbDbBv4be/giphy.gif?cid=ecf05e47062c0utnn8adkgaasz0rb42u2ybn2zugpsnh8hyw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### :sparkles: Languages & Platform :sparkles:
+### :sparkles: Languages & Framework & Platform :sparkles:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-F7DF1E.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white)
