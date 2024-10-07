@@ -39,5 +39,5 @@
 
 ### 😼 Portfolio	👾
 
-[Click here!](https://www.notion.so/polyesterda/FullStack-ec73cec9c9e5470db113150b10355a22?pvs=4)
+[Click here!](https://www.notion.so/polyesterda/10a974132702807ca333e7de8763a206)
 
