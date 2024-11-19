@@ -12,7 +12,6 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=flat-square&logo=Spring%20Boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3DDC84.svg?&style=flat-square&logo=Django&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
